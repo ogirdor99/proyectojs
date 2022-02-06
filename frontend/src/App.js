@@ -23,17 +23,6 @@ function App() {
     <div className="App">
       <Header />
       <Producto items={items}/>
-
-      
-      <div>
-      <select name="select">
-        <option value="" defaultValue></option>
-        <option value="bolso">Bolso</option>
-        <option value="neceser">Neceser</option>
-        <option value="monedero">Monedero</option>
-        <option value="bolsito">Bolsito</option>
-      </select>
-      </div>
       <Footer />
     </div>
   );
