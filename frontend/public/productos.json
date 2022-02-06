@@ -1,0 +1,31 @@
+{
+    "productos": [
+    { "precio":"45" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Bolso", "url": "http://localhost:3000/fotos/41.jpeg" },
+    { "precio":"45" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Bolso", "url": "http://localhost:3000/fotos/42.jpeg" },
+    { "precio":"45" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Bolso", "url": "http://localhost:3000/fotos/43.jpeg" },
+    { "precio":"45" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Bolso", "url": "http://localhost:3000/fotos/44.jpeg" },
+    { "precio":"45" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Bolso", "url": "http://localhost:3000/fotos/45.jpeg" },
+    { "precio":"45" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Bolso", "url": "http://localhost:3000/fotos/46.jpeg" },
+
+    { "precio":"15" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Monedero", "url": "http://localhost:3000/fotos/54.jpeg" },
+    { "precio":"15" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Monedero", "url": "http://localhost:3000/fotos/55.jpeg" },
+    { "precio":"15" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Monedero", "url": "http://localhost:3000/fotos/56.jpeg" },
+    { "precio":"15" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Monedero", "url": "http://localhost:3000/fotos/57.jpeg" },
+    { "precio":"15" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Monedero", "url": "http://localhost:3000/fotos/58.jpeg" },
+    { "precio":"15" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Monedero", "url": "http://localhost:3000/fotos/2.jpeg" },
+
+    { "precio":"30" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Neceser", "url": "http://localhost:3000/fotos/31.jpeg" },
+    { "precio":"30" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Neceser", "url": "http://localhost:3000/fotos/32.jpeg" },
+    { "precio":"30" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Neceser", "url": "http://localhost:3000/fotos/33.jpeg" },
+    { "precio":"30" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Neceser", "url": "http://localhost:3000/fotos/34.jpeg" },
+    { "precio":"30" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Neceser", "url": "http://localhost:3000/fotos/35.jpeg" },
+    { "precio":"30" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Neceser", "url": "http://localhost:3000/fotos/38.jpeg" },
+
+    { "precio":"25" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Bolsito", "url": "http://localhost:3000/fotos/7.jpeg" },
+    { "precio":"25" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Bolsito", "url": "http://localhost:3000/fotos/8.jpeg" },
+    { "precio":"25" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Bolsito", "url": "http://localhost:3000/fotos/10.jpeg" },
+    { "precio":"25" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Bolsito", "url": "http://localhost:3000/fotos/16.jpeg" },
+    { "precio":"25" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Bolsito", "url": "http://localhost:3000/fotos/13.jpeg" },
+    { "precio":"25" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Bolsito", "url": "http://localhost:3000/fotos/15.jpeg" }
+    ]
+    }

@@ -4,8 +4,12 @@ const Producto= ({items}) => {
         return (
           <div>
             {items.map(item => (
-                <p className="c-cardorigin">{item.origin.name}</p>
-                
+              <div>
+              <img src={item.url} />
+              <p>{item.descripcion}</p>
+              <p>{item.precio}</p>
+              <p>{item.tipo}</p>
+              </div>
             ))}
         </div>)
       };
