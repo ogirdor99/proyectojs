@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import {Header} from './Header';
+import {Footer} from './Footer';
 import {Producto} from './Producto';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import {useState, useEffect} from 'react';
@@ -38,8 +39,15 @@ function App() {
         <spam>Tipo:Bolso</spam>
       </div>
       <div>
-
+      <select name="select">
+        <option value="" selected></option>
+        <option value="bolso">Bolso</option>
+        <option value="neceser">Neceser</option>
+        <option value="monedero">Monedero</option>
+        <option value="bolsito">Bolsito</option>
+      </select>
       </div>
+      <Footer />
     </div>
   );
 }
