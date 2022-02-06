@@ -1,0 +1,31 @@
+{
+    "productos": [
+    { "precio":"45" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Bolso", "url": "" },
+    { "precio":"45" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Bolso", "url": "" },
+    { "precio":"45" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Bolso", "url": "" },
+    { "precio":"45" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Bolso", "url": "" },
+    { "precio":"45" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Bolso", "url": "" },
+    { "precio":"45" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Bolso", "url": "" },
+
+    { "precio":"15" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Monedero", "url": "" },
+    { "precio":"15" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Monedero", "url": "" },
+    { "precio":"15" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Monedero", "url": "" },
+    { "precio":"15" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Monedero", "url": "" },
+    { "precio":"15" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Monedero", "url": "" },
+    { "precio":"15" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Monedero", "url": "" },
+
+    { "precio":"30" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Neceser", "url": "" },
+    { "precio":"30" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Neceser", "url": "" },
+    { "precio":"30" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Neceser", "url": "" },
+    { "precio":"30" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Neceser", "url": "" },
+    { "precio":"30" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Neceser", "url": "" },
+    { "precio":"30" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Neceser", "url": "" },
+
+    { "precio":"25" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Bolsito", "url": "" },
+    { "precio":"25" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Bolsito", "url": "" },
+    { "precio":"25" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Bolsito", "url": "" },
+    { "precio":"25" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Bolsito", "url": "" },
+    { "precio":"25" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Bolsito", "url": "" },
+    { "precio":"25" , "descripcion":"Objeto artesanal de patchwork", "tipo": "Bolsito", "url": "" }
+    ]
+    }
